@@ -11,7 +11,7 @@ Usage:
 * clone the repo
 * set OPENAI_API_KEY in a .env file in the root directory
 * put any pdfs you want to chat over in a folder called new_pdfs
-* run ```python rag_engine.py``` or type the command ```jupyter lab``` and run the only cell
+* type the command ```jupyter lab``` and run the only cell (```python rag_engine.py``` to come soon) 
 * chat away!
 
 
