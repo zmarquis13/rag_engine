@@ -1,6 +1,6 @@
-!new_pdfs/
-!used_pdfs/
-!chromadb/
+new_pdfs/*
+used_pdfs/*
+chromadb/*
 
 .env
 
