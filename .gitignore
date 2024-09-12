@@ -6,6 +6,8 @@ used_pdfs/*
 
 chromadb/*
 
+.DS_Store
+
 .env
 
 # Byte-compiled / optimized / DLL files
