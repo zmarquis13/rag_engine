@@ -12,12 +12,13 @@ Usage:
 * clone the repo
 * set OPENAI_API_KEY and BRAVE_SEARCH_API_KEY in a .env file in the root directory
 * put any pdfs you want to chat over in a folder called new_pdfs
-* type the command ```jupyter lab``` and run the only cell in rag_engine.ipynb (```python rag_engine.py``` to come soon) 
+* type the command ```jupyter lab``` and run the only cell in rag_engine.ipynb
 * chat away!
 
 Next steps:
 * incorporate support for more file types (txt, etc.)
 * allow the content of specific webpages to be indexed as well
+* turn .ipynb to executable
 
 
 
