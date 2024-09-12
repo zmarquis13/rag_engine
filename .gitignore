@@ -1,4 +1,9 @@
+new_pdfs/*
+!new_pdfs/.gitkeep
+
 used_pdfs/*
+!used_pdfs/.gitkeep
+
 chromadb/*
 
 .env
