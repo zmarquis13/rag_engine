@@ -17,6 +17,7 @@ Usage:
 
 Next steps:
 * incorporate support for more file types (txt, etc.)
+* allow the content of specific webpages to be indexed as well
 
 
 
